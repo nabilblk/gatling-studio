@@ -1,1 +1,4 @@
-# gatling-studio
+# Gatling Studio
+
+###### Structure du projet : 
+
